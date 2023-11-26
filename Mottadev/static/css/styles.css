@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+
+.menustyle{
+    font-family: 'Roboto Slab', serif;
+}
+
+.form-layout{
+    border-radius: 20px;
+    width: 500px;
+}
